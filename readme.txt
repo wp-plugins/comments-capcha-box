@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Comments Capcha Box ===
 Contributors: digitalzoomstudio
 Donate link: https://www.paypal.com/ro/cgi-bin/webscr?cmd=_flow&SESSION=_xGxCpT9Yovtgv2vdxH7UGSuyZT9pUcRc8_7S0nbJzlGkFdp6jm4vN_Kici&dispatch=5885d80a13c0db1f8e263663d3faee8d9384d85353843a619606282818e091d0
 Tags: comments, spam
