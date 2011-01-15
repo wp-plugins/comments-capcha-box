@@ -13,10 +13,9 @@ This plugin creates a capcha box before your submit button in the comments secti
 This plugin creates a capcha box before your submit button in the comments section to prevent all that unwanted spam. It comes with a mini-admin panel and love.
 
 Hope you enjoy it!
-
-== Demo ==
-
 <img src="http://farm6.static.flickr.com/5163/5355894641_01231f02bd.jpg"/>
+
+
 
 == Installation ==
 
