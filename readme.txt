@@ -15,6 +15,8 @@ This plugin creates a capcha box before your submit button in the comments secti
 Hope you enjoy it!
 http://farm6.static.flickr.com/5163/5355894641_01231f02bd.jpg
 
+Check my other premium wordpress plugins here - http://bit.ly/dOenET
+
 <img src="http://farm6.static.flickr.com/5163/5355894641_01231f02bd.jpg"/>
 
 
