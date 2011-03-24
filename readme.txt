@@ -16,7 +16,12 @@ UPDATED 1.1
 - fixed bugs
 - no more manual input of the submit button 
 
-Check out live demo - http://digitalzoomstudio.net/installing-magento-on-mamp/221
+LIVE DEMO - http://digitalzoomstudio.net/installing-magento-on-mamp/221
+
+TWITTER - http://twitter.com/ZoomItFlash
+FACEBOOK - http://www.facebook.com/digitalzoomstudio
+
+
 
 Check my other premium wordpress plugins here - http://bit.ly/dOenET
 
