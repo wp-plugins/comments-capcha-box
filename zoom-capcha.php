@@ -12,9 +12,9 @@ Author URI: http://digitalzoomstudio.net/
 $WPZpath = WP_PLUGIN_URL.'/'.str_replace(basename( __FILE__),"",plugin_basename(__FILE__));
 
 add_action('init', 'wpz_init');
-add_action('wp_footer','wpz_footer');
 
 add_action('wp_ajax_capcha_ajax', 'wpz_capcha_ajax');
+add_filter('preprocess_comment', 'wpz_check_comment', 1);
 
 
 
@@ -53,11 +53,14 @@ function wpz_capcha_ajax() {
 
 function wpz_init(){
 wp_enqueue_script( 'jquery');
+//return $comment;
+}
+function wpz_check_comment($comment){
 
 $arr = array(0 => "8906", 1 => "45723", 2 => "1764", 3 => "9407");
 if(isset($_POST['dzs_capcha_text'])){
     if($arr[$_POST['dzs_capcha_nr']] == $_POST['dzs_capcha_text']){
-
+        return $comment;
     }
     else
         wp_die('revise capcha value');

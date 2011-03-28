@@ -16,8 +16,7 @@ UPDATED 1.1
 - fixed bugs
 - no more manual input of the submit button 
 
-LIVE DEMO - http://digitalzoomstudio.net/installing-magento-on-mamp/221
-
+LIVE DEMO - http://digitalzoomstudio.net/installing-magento-on-mamp/221
 TWITTER - http://twitter.com/ZoomItFlash
 FACEBOOK - http://www.facebook.com/digitalzoomstudio
 
@@ -32,6 +31,5 @@ Check my other premium wordpress plugins here - http://bit.ly/dOenET
 
 
 1. Download the plugin zip on your computer
-1. Activate the plugin
-1. If it does not show right away, you need to access the admin panel > Settings > Zoom Capcha, and replace the value from the box with the id of your Submit Comment button [ you can check that with firebug ]
-`<?php code(); // goes in backticks ?>`
+2. Activate the plugin
+3. Enjoy no spam!
